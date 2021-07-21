@@ -8,5 +8,5 @@
 
 效果如图
 
-![covfig](.\imgs\covfig.png)
+![covfig](https://github.com/furiousmonster/flask-cov/blob/master/imgs/covfig.png)
 
